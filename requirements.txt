@@ -16,4 +16,5 @@ Flask
 Flask-Cors
 python-dotenv
 seaborn
+textblob
 -e .
